@@ -1,0 +1,17 @@
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.exe
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.deps.json
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.runtimeconfig.json
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.dll
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.pdb
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.csproj.AssemblyReference.cache
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.Form1.resources
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.csproj.GenerateResource.cache
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.AssemblyInfoInputs.cache
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.AssemblyInfo.cs
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.dll
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\refint\CalculadoraForms.dll
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.pdb
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.genruntimeconfig.cache
+C:\Users\daniel.marin.giner\source\repos\CalculadoraForms\obj\Debug\net6.0-windows\ref\CalculadoraForms.dll
